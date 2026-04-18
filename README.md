@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 2nd Year B.E Computer Science Engineering student  
+- 🎓 B.E Computer Science Engineering student  
 - 🤖 Passionate about **Machine Learning & Data Analysis**  
 - 📊 Working on real-world datasets and predictive models  
 - 🧩 Strong interest in **DSA, problem-solving, and logical thinking**  
@@ -30,15 +30,7 @@
 
 ---
 
-### 🎓 Education  
-- 🏫 **Karpagam Institute of Technology, Coimbatore**  
-  → B.E CSE (2023–Present) | CGPA: 8.2  
 
-- 🏫 **Adharsh Vidhyalaya Matric Hr. Sec. School**  
-  → HSC: 78.83%  
-  → SSLC: 95%  
-
----
 
 ### 💻 Tech Stack  
 
@@ -72,10 +64,6 @@
 
 ---
 
-### 📜 Certifications  
-- ☁️ AWS Cloud Practitioner (Fundamentals)  
-
----
 
 ### 📈 GitHub Stats  
 <p align="center">  
