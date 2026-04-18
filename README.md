@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00ADB5">Dharavikasini V S</span></h1>
-<h3 align="center">Machine Learning Enthusiast | CSE Student | Cloud & Problem Solving Learner</h3>
+<h3 align="center">Machine Learning Enthusiast | CSE Student | Cloud | Problem Solving Learner</h3>
 
 ---
 
@@ -99,7 +99,7 @@
 
 ### 🔗 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharavikasini-viswanathan">
+  <a href="[https://www.linkedin.com/in/dharavikasini-viswanathan](https://www.linkedin.com/in/dharavikasini-viswanathan/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Dharavikasini">
