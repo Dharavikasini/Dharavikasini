@@ -82,7 +82,7 @@
 ### 🧮 My LeetCode Progress  
 <p align="center">
   <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Karma&ext=heatmap" />
+    <img src="https://leetcode.com/u/vsdharavikasini/" />
   </a>
 </p>
 
