@@ -10,118 +10,108 @@
 
 ---
 
-<!-- 🌐 PORTFOLIO -->
+### 🌐 Visit My Portfolio  
 <p align="center">
   <a href="https://github.com/Dharavikasini">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me  
-<p align="center">
-🎓 B.E Computer Science Engineering student <br>
-🤖 Passionate about <b>Machine Learning & Artificial Intelligence</b> <br>
-📊 Working on real-world datasets and predictive models <br>
-🧩 Strong interest in <b>DSA, problem-solving, and logical thinking</b> <br>
-🎯 Goal: Become a <b>Skilled ML Engineer / Software Developer</b>
-</p>
+### 🧠 About Me  
+- 🎓 B.E Computer Science Engineering student  
+- 🤖 Passionate about **Machine Learning & Artificial Intelligence**  
+- 📊 Working on real-world datasets and predictive models  
+- 🧩 Strong interest in **DSA, problem-solving, and logical thinking**  
+- 🎯 Goal: Become a **Skilled ML Engineer / Software Developer**  
 
 ---
 
-## 📂 Certificates  
+### 📂 My Certificates  
 <p align="center">
   <a href="https://github.com/Dharavikasini/Certificates">
-    <img src="https://img.shields.io/badge/📂%20Certificates-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/📂%20View%20My%20Certificates-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+### 💻 Tech Stack  
 
-### 💬 Languages  
+#### 💬 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 </p>
 
-### 🧠 Core Concepts  
-<p align="center">
-  <img src="https://img.shields.io/badge/OOPS-003B2F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-00E676?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Algorithms-00FF9C?style=flat-square&logoColor=black"/>
-</p>
+#### 🧠 Core Concepts  
+- OOPS  
+- Data Structures & Algorithms  
 
-### 🤖 Machine Learning  
-<p align="center">
-  <img src="https://img.shields.io/badge/Regression-003B2F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Classification-00E676?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clustering-00FF9C?style=flat-square"/>
-</p>
+#### 🤖 Machine Learning  
+- Regression, Classification, Clustering  
+- Model Evaluation (Accuracy, Precision, Recall)  
+- Feature Selection & Data Preprocessing  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Model%20Evaluation-003B2F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature%20Selection-00E676?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-00FF9C?style=flat-square"/>
-</p>
-
-### ☁️ Tools  
+#### ☁️ Cloud & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,jupyter"/>
 </p>
 
 ---
 
-## 🚀 Projects  
+### 🚀 Projects  
+- 📊 Machine Learning models using Python  
+- 📈 Predictive models on datasets with performance comparison  
+- 🔍 Mini projects focused on reducing error rate  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharavikasini&show_icons=true&theme=tokyonight&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharavikasini&theme=tokyonight&ring=00FF9C&fire=00FF9C" height="160"/>  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharavikasini&layout=compact&theme=tokyonight&title_color=00FF9C" height="160"/>  
+</p>  
+
+---
+
+### 🧮 My LeetCode Progress  
 <p align="center">
-📊 Machine Learning models using Python <br>
-📈 Predictive models with performance comparison <br>
-🔍 Mini projects focused on reducing error rate  
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Karma&ext=heatmap" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharavikasini&show_icons=true&theme=tokyonight&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharavikasini&theme=tokyonight&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharavikasini&layout=compact&theme=tokyonight&title_color=00FF9C"/>
-</p>
-
----
-
-## 🧮 LeetCode  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap"/>
-</p>
-
----
-
-## 🔗 Connect  
+### 🔗 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/dharavikasini-viswanathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/Dharavikasini">
-    <img src="https://img.shields.io/badge/GitHub-003B2F?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-003B2F?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:dharavikasiniviswanathan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00E676?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-00E676?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 📜 Quote  
+### 📜 Quote That Drives Me  
+> *“Keep learning, keep building, and never stop improving.”* 🚀  
+
+---
+
+<p align="center">⭐ Thanks for visiting! Let’s grow and build together! ⭐</p>
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <p align="center">
-<i>“Keep learning, keep building, and never stop improving.”</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <!-- 🌊 FOOTER -->
