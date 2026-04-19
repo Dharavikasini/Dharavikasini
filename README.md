@@ -1,108 +1,98 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#00ADB5">Dharavikasini V S</span></h1>
-<h3 align="center">Machine Learning Enthusiast | CSE Student | Cloud | Problem Solving Learner</h3>
-
----
-
-### 🌐 Visit My Portfolio  
+<!-- 🌈 TOP BANNER -->
 <p align="center">
-  <a href="https://github.com/Dharavikasini">
-    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-00ADB5?style=for-the-badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=200&section=header&text=Dharavikasini%20V%20S&fontSize=35&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- 🔥 TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+🤖;CSE+Student+🎓;Problem+Solver+🧠;Future+ML+Engineer+🚀"/>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 B.E Computer Science Engineering student  
-- 🤖 Passionate about **Machine Learning & Data Analysis**  
-- 📊 Working on real-world datasets and predictive models  
-- 🧩 Strong interest in **DSA, problem-solving, and logical thinking**  
-- 🎯 Goal: Become a **Skilled ML Engineer / Software Developer**  
-
----
-
-### 📂 My Certificates  
+<!-- 🧊 GLASS CARD INTRO -->
 <p align="center">
-  <a href="https://github.com/Dharavikasini/Certificates">
-    <img src="https://img.shields.io/badge/📂 View My Certificates-00ADB5?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://img.shields.io/badge/💡-Passionate%20Learner-00ADB5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡-Problem%20Solver-222831?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☁️-Cloud%20Learner-393E46?style=for-the-badge"/>
 </p>
 
 ---
 
+## 👩‍💻 About Me  
 
-
-### 💻 Tech Stack  
-
-#### 💬 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🧠 Core Concepts  
-- OOPS  
-- Data Structures & Algorithms  
-
-#### 🤖 Machine Learning  
-- Regression, Classification, Clustering  
-- Model Evaluation (Accuracy, Precision, Recall)  
-- Feature Selection & Data Preprocessing  
-
-#### ☁️ Cloud & Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Projects  
-- 📊 Machine Learning models using Python  
-- 📈 Predictive models on datasets with performance comparison  
-- 🔍 Mini projects focused on reducing error rate  
-
----
-
-
-### 📈 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharavikasini&show_icons=true&theme=tokyonight" height="160" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharavikasini&theme=tokyonight" height="160" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharavikasini&layout=compact&theme=tokyonight" height="160"/>  
-</p>  
-
----
-
-### 🧮 My LeetCode Progress  
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Karma&ext=heatmap" />
-  </a>
+✨ Building intelligent systems with ML <br>
+📊 Working on real-world datasets <br>
+🧩 Strong in DSA & logical thinking <br>
+🎯 Goal: ML Engineer / Developer  
 </p>
 
 ---
 
-### 🔗 Connect With Me  
+<!-- 🔥 DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259905-6d6d83d3-76f1-4b4e-b9c6-0c1cfc0c1d58.gif" width="100%"/>
+</p>
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,aws,git,github,vscode,jupyter"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharavikasini&show_icons=true&theme=tokyonight&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharavikasini&theme=tokyonight&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharavikasini&layout=compact&theme=tokyonight&border_radius=15"/>
+</p>
+
+---
+
+## 🧮 Coding Activity  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🌐 Connect  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dharavikasini-viswanathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Dharavikasini">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/-LinkedIn-00ADB5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:dharavikasiniviswanathan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-Email-393E46?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Dharavikasini">
+    <img src="https://img.shields.io/badge/-GitHub-222831?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-### 📜 Quote That Drives Me  
-> *“Keep learning, keep building, and never stop improving.”* 🚀  
+<!-- 🐍 SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Let’s grow and build together! ⭐</p>
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=120&section=footer"/>
+</p>
