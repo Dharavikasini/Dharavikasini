@@ -79,10 +79,10 @@
 
 ---
 
-### 🧮 My LeetCode Progress  
+### 🧮 My LeetCode Progress
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcode.com/u/vsdharavikasini/" />
+  <a href="https://leetcode.com/u/vsdharavikasini/">
+    <img src="https://leetcard.jacoblin.cool/vsdharavikasini?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
 
