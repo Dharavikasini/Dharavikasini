@@ -5,7 +5,7 @@
 
 <!-- 🤖 TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast+🤖;CSE+Student+🎓;Cloud+Learner+☁️;Problem+Solver+🧠;Future+ML+Engineer+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast+🤖;CSE+Student+🎓;Cloud+Learner+☁️;Problem+Solver+🧠"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 - 🤖 Passionate about **Machine Learning & Artificial Intelligence**  
 - 📊 Working on real-world datasets and predictive models  
 - 🧩 Strong interest in **DSA, problem-solving, and logical thinking**  
-- 🎯 Goal: Become a **Skilled ML Engineer / Software Developer**  
+
 
 ---
 
